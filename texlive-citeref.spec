@@ -1,6 +1,6 @@
 Name:		texlive-citeref
 Version:	47407
-Release:	1
+Release:	2
 Summary:	Add reference-page-list to bibliography-items
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citeref
