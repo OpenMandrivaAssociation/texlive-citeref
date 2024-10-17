@@ -3,7 +3,7 @@ Version:	47407
 Release:	2
 Summary:	Add reference-page-list to bibliography-items
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/citeref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/citeref
 License:	bsd4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citeref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/citeref.doc.r%{version}.tar.xz
